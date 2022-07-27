@@ -1,0 +1,20 @@
+.row{
+    padding: 20px;  
+    padding-top: 5%;     
+}
+
+div{
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: #f0f0f0;  
+}
+
+h1{
+    padding: 20px;
+}
+
+h2, h3{
+    display: inline;
+    color: #695f02;
+}
